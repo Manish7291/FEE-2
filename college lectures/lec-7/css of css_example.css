@@ -1,0 +1,11 @@
+h3{
+    color: cadetblue;
+    font-size: larger;
+    background-color: bisque;
+}
+h4{
+    color: chartreuse;
+    background-color: black;
+    font-size: 200%;
+    padding: 2%;
+}
