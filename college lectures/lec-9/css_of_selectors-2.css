@@ -1,0 +1,9 @@
+  /* decendent selector */
+  
+  ul li a{
+    color: red;
+}
+ul li img{
+    background-color: black;
+    padding: 50px;
+}
