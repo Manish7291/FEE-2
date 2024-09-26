@@ -1,0 +1,30 @@
+*{font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: goldenrod;
+    background-color: black;
+
+}
+
+/* 2 id selectors */
+
+#car{
+    color: greenyellow;
+    border: 5px dotted black;
+
+}
+
+/* 3. class selector */
+
+input[type="text"]{
+   background-color: blueviolet;
+}
+input[type="password"]{
+   background-color: rgb(19, 211, 64);
+}
+.txt1{
+    color: greenyellow;
+}
+
+.txt3{
+    color:red;
+}

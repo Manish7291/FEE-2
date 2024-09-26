@@ -1,0 +1,33 @@
+.div1{
+    border: 5px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+    /* background-color: rgb(3, 3, 2); */
+    
+}
+.div2{
+    color: black;
+    background-color: gray;
+   margin: 0;
+   padding: 30px;
+
+
+}
+.div3{
+    background-color:bisque;
+    
+
+}
+.div4{
+    border: 4px solid rgb(0, 0, 0);
+    padding: 20px;
+    background-color:bisque;
+    
+    
+}
+
+.main{
+    border:3px solid black;
+    padding: 10px;
+    background-color:lightskyblue;
+}
